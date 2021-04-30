@@ -17,7 +17,7 @@ see this README.md
 <br>
 <br>
 
-![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Google-Play-Store-QR-code-open-template.png)
+![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
 <br>
 <br>
 <br>
