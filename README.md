@@ -29,6 +29,24 @@ see this README.md
 <br>
 <br>
 <br>
+<br>
+
+![s1](https://raw.githubusercontent.com/c4pt000/for_mobile_easeofuse-import-Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Screenshot_20210430-145007-709.png)
+<br>
+<br>
+<br>
+<br>
+![s1](https://raw.githubusercontent.com/c4pt000/for_mobile_easeofuse-import-Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Screenshot_20210430-145024-495.png)
+<br>
+<br>
+<br>
+<br>
+![s1](https://raw.githubusercontent.com/c4pt000/for_mobile_easeofuse-import-Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Screenshot_20210430-144939-414.png)
+<br>
+<br>
+<br>
+<br>
+<br>
 
 google play, amazon store listings, -> QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
 <br>
