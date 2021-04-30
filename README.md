@@ -52,6 +52,11 @@ requires node js and build.sh to generate node modules based on .js and .ts
 
 # Google-Play_Store_QR-codes and apple ios App store
 # QR code should be generated for every google play store app and google play store app should have a camera import button to find and import apps easier
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 # GOOGLE PLAY TEMPLATE
