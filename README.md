@@ -1,3 +1,7 @@
+# requires python3 nodejs
+
+see releases https://github.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/releases/tag/templates
+
 google play, amazon store listings, -> QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
 
 simple project intermediate or advanced programmer maybe 3 or 4 hours tops
