@@ -4,6 +4,8 @@ simple project intermediate or advanced programmer maybe 3 or 4 hours tops
 
 done -> 04-30-2021 might build a template if i am not too busy
 
+# AMAZON marketplace TEMPLATE
+
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/main/amazon-marketplace-example.png)
 
 run a local side server to test functionality (grabs current href url and paints the QR code for the current market item listing)
@@ -34,6 +36,11 @@ requires node js and build.sh to generate node modules based on .js and .ts
 
 # Google-Play_Store_QR-codes and apple ios App store
 # QR code should be generated for every google play store app and google play store app should have a camera import button to find and import apps easier
+
+
+# GOOGLE PLAY TEMPLATE
+![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Google-Play-Store-QR-code-open-template.png)
+
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
 
