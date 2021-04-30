@@ -1,3 +1,10 @@
+QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
+
+simple project intermediate or advanced programmer maybe 3 or 4 hours tops
+
+might build a template if i am not too busy
+
+
 # Google-Play_Store_QR-codes and apple ios App store
 # QR code should be generated for every google play store app and google play store app should have a camera import button to find and import apps easier
 
