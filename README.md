@@ -2,7 +2,7 @@ google play, amazon store listings, -> QR code generator javascript, -> grab cur
 
 simple project intermediate or advanced programmer maybe 3 or 4 hours tops
 
-might build a template if i am not too busy
+done -> 04-30-2021 might build a template if i am not too busy
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/main/amazon-marketplace-example.png)
 
@@ -10,6 +10,9 @@ run a local side server to test functionality (grabs current href url and paints
 
  /usr/bin/web-server-simple 
 python -m http.server 8888 --directory .
+
+see example template files here
+https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
 
 
 # Google-Play_Store_QR-codes and apple ios App store
