@@ -12,6 +12,6 @@
 <br>
 <br>
 <br>
-
+same here camera icon lower left hand corner with a listen event for a button click opens iphone camera app for QR code import
 
 ![s1](https://github.com/c4pt000/Google-Play_Store_QR-codes/blob/main/apple-app-store-QR-camera-import-crudge.png)
