@@ -1,4 +1,4 @@
-QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
+google play, amazon store listings, -> QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
 
 simple project intermediate or advanced programmer maybe 3 or 4 hours tops
 
