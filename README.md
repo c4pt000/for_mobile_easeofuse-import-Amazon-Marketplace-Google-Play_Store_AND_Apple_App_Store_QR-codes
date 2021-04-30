@@ -1,21 +1,66 @@
 # requires python3 nodejs
+<br>
+<br>
+<br>
 
 see releases https://github.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/releases/tag/templates
+<br>
+<br>
+<br>
+<br>
+
+see this README.md 
+-> # should be more like this as refined design on server side
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Google-Play-Store-QR-code-open-template.png)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 google play, amazon store listings, -> QR code generator javascript, -> grab current URL -> pipe through QR code generator.js -> place by .css X,Y location of store object
+<br>
+<br>
+<br>
 
 simple project intermediate or advanced programmer maybe 3 or 4 hours tops
+<br>
+<br>
+<br>
+<br>
 
 done -> 04-30-2021 might build a template if i am not too busy
+<br>
+<br>
+<br>
 
 # AMAZON marketplace TEMPLATE
+<br>
+<br>
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/main/amazon-marketplace-example.png)
+<br>
+<br>
+<br>
 
 run a local side server to test functionality (grabs current href url and paints the QR code for the current market item listing)
+<br>
+<br>
 
+```
  /usr/bin/web-server-simple 
 python -m http.server 8888 --directory .
+```
+
+<br>
+<br>
 
 # see example template files here
 https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
@@ -63,6 +108,9 @@ requires node js and build.sh to generate node modules based on .js and .ts
 
 
 # GOOGLE PLAY TEMPLATE
+
+# should be more like this as refined design on server side
+
 ![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Google-Play-Store-QR-code-open-template.png)
 
 ```
