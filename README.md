@@ -11,8 +11,13 @@ run a local side server to test functionality (grabs current href url and paints
  /usr/bin/web-server-simple 
 python -m http.server 8888 --directory .
 
-see example template files here
+# see example template files here
 https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
+
+
+
+see source of qrcode generator -> https://github.com/c4pt000/QR-Code-generator not my original code its a fork I kept to utilize
+requires node js and build.sh to generate node modules based on .js and .ts
 
 
 # Google-Play_Store_QR-codes and apple ios App store
