@@ -6,6 +6,10 @@ might build a template if i am not too busy
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/main/amazon-marketplace-example.png)
 
+run a local side server to test functionality (grabs current href url and paints the QR code for the current market item listing)
+
+ /usr/bin/web-server-simple 
+python -m http.server 8888 --directory .
 
 
 # Google-Play_Store_QR-codes and apple ios App store
