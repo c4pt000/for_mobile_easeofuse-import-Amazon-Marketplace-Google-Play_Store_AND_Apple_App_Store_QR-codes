@@ -16,6 +16,11 @@ python -m http.server 8888 --directory .
 # see example template files here
 https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # local side only if the code lives on the server side it will generate a QR code based on location of href url for QR current page for the client's browser side
 ```
@@ -27,6 +32,17 @@ cd QR-html-template-amazon
 
 python -m http.server 8888 --directory .
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
@@ -51,6 +67,16 @@ cd Google-Play-template-example
 python -m http.server 8888 --directory .
 
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
