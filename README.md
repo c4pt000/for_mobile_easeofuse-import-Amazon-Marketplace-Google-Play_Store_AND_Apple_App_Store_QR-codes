@@ -50,8 +50,7 @@ see source of qrcode generator -> https://github.com/c4pt000/QR-Code-generator n
 requires node js and build.sh to generate node modules based on .js and .ts
 
 
-# Google-Play_Store_QR-codes and apple ios App store
-# QR code should be generated for every google play store app and google play store app should have a camera import button to find and import apps easier
+
 <br>
 <br>
 <br>
@@ -78,6 +77,13 @@ python -m http.server 8888 --directory .
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+# Google-Play_Store_QR-codes and apple ios App store
+# QR code should be generated for every google play store app and google play store app should have a camera import button to find and import apps easier
 <br>
 <br>
 <br>
