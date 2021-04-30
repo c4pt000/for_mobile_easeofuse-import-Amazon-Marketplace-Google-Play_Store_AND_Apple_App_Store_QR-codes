@@ -24,7 +24,6 @@ see this README.md
 <br>
 <br>
 # amazon marketplace example
-<br>
 ![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/right-below-buy-button-100px.png)
 
 <br>
