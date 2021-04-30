@@ -16,6 +16,8 @@ see this README.md
 <br>
 <br>
 <br>
+# 100 px minimum
+# should be right above "buy for $ X.00 buy button more refined as 100px by 100px or 120px by 120px
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
 <br>
