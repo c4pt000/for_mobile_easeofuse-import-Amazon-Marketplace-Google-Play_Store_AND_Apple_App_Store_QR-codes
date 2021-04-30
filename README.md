@@ -15,7 +15,7 @@ python -m http.server 8888 --directory .
 https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
 
 
-# local side only if the code lives on their server side it will generate based on location of href url for QR current page
+# local side only if the code lives on the server side it will generate a QR code based on location of href url for QR current page for the client's browser side
 ```
 wget https://github.com/c4pt000/Google-Play_Store_AND_Apple_App_Store_QR-codes/blob/main/QR-html-template-amazon.tar.gz
 
