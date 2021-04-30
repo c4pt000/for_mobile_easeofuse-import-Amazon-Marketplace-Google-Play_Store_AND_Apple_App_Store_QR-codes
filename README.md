@@ -19,10 +19,14 @@ see this README.md
 # 100 px minimum
 # should be right above "buy for $ X.00 buy button more refined as 100px by 100px or 120px by 120px
 
+# google play example
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
 <br>
 <br>
+# amazon marketplace example
 <br>
+![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/right-below-buy-button-100px.png)
+
 <br>
 <br>
 <br>
@@ -51,6 +55,7 @@ done -> 04-30-2021 might build a template if i am not too busy
 <br>
 <br>
 <br>
+![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/right-below-buy-button-100px.png)
 
 run a local side server to test functionality (grabs current href url and paints the QR code for the current market item listing)
 <br>
