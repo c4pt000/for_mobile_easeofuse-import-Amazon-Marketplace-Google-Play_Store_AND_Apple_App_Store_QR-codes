@@ -165,6 +165,7 @@ python -m http.server 8888 --directory .
 <br>
 <br>
 <br>
+![s1](https://raw.githubusercontent.com/c4pt000/for_mobile_easeofuse-import-Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/gGUAnQk.png)
 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/Google-Play_Store_QR-codes/main/QR-app-store-install.png)
