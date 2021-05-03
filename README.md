@@ -133,7 +133,7 @@ requires node js and build.sh to generate node modules based on .js and .ts
 
 
 # GOOGLE PLAY TEMPLATE
-![s1](https://raw.githubusercontent.com/c4pt000/Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/Google-Play-Store-QR-code-open-template.png)
+![s1](https://raw.githubusercontent.com/c4pt000/for_mobile_easeofuse-import-Amazon-Marketplace-Google-Play_Store_AND_Apple_App_Store_QR-codes/main/gGUAnQk.png)
 
 # should be more like this as refined design on server side
 
