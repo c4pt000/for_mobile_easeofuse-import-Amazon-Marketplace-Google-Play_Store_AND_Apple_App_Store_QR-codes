@@ -1,3 +1,6 @@
+
+# google needs to disable calendar automatic invite events on google signup accounts by default, google is victimizing too many people allowing them to be fooled into crimes such as sextortion and other vile crimes
+
 # requires python3 nodejs
 <br>
 <br>
